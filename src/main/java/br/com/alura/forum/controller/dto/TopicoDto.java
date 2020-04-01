@@ -5,6 +5,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 import br.com.alura.forum.modelo.Topico;
+import io.swagger.annotations.ApiModelProperty;
 
 public class TopicoDto {
 
